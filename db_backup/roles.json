@@ -1,0 +1,5 @@
+{"_id":{"$oid":"68d2e9b0440dfe3189cd8e24"},"roleID":"R001","roleName":"Admin"}
+{"_id":{"$oid":"68d2e9b0440dfe3189cd8e25"},"roleID":"R002","roleName":"Cashier"}
+{"_id":{"$oid":"68d2e9b0440dfe3189cd8e26"},"roleID":"R003","roleName":"Purchase Officer"}
+{"_id":{"$oid":"68d2e9b0440dfe3189cd8e27"},"roleID":"R004","roleName":"Vehicle Manager"}
+{"_id":{"$oid":"68d2e9b0440dfe3189cd8e28"},"roleID":"R005","roleName":"Other"}
